@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Les4 WebApAuthContein", "Les4 WebApAuthContein.csproj", "{23B18A6D-7A43-4BC2-B611-EAD8F733CD0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23B18A6D-7A43-4BC2-B611-EAD8F733CD0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23B18A6D-7A43-4BC2-B611-EAD8F733CD0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23B18A6D-7A43-4BC2-B611-EAD8F733CD0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23B18A6D-7A43-4BC2-B611-EAD8F733CD0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F35F479-EF61-4FDB-AB6A-2B97241FBB11}
+	EndGlobalSection
+EndGlobal

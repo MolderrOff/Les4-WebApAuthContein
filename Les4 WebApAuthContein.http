@@ -1,0 +1,6 @@
+@Les4_WebApAuthContein_HostAddress = http://localhost:5025
+
+GET {{Les4_WebApAuthContein_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
